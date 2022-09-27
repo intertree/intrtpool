@@ -1,0 +1,25 @@
+{
+    "info": {
+        "url_png_icon_64x64": "https://atsusni.com/images/poolicon.jpg",
+        "url_png_logo": "Johnny Kelly (intertree)",
+        "location": "Belfast, Northern Ireland",
+        "social": {
+            "twitter_handle": "intertreeJK",
+            "telegram_handle": "johnny.kelly",
+            "facebook_handle": "intertree",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "intertree#8486",
+            "github_handle": "intertree",
+            "patreon_handle": "atsusnigigguide",
+            "linkedin_handle": "intertreeJK",
+            "ada_handle": "$intertree"
+        },
+        "about": {
+            "me": "Johnny Kelly (intertree) your Northern Ireland based SPO Set Up and CNFT Minting Consultant",
+            "server": "A Preview Testnet SPO to use as a showcase to potential clients to help to describe how SPO Infrastructure set up works. Also to use as a testing ground for Smart Contract/dApp Development as well as NFT minting campaigns.
+",
+            "company": "intertree Crypto Consultants"
+        }
+    }
+}
