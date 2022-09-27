@@ -2,5 +2,6 @@
 "name": "intertree",
 "description": "Because YOLO y'know? The website address is just a personal project.",
 "ticker": "INTRT",
-"homepage": "https://atsusni.com"
+"homepage": "https://atsusni.com",
+"extended": "https://raw.githubusercontent.com/intertree/intrtpool/main/meta.json"
 }
